@@ -6,7 +6,7 @@ import Contact from './Pages/Contact';
 import SkillsAndCertifications from './Pages/SkillsAndCertifications';
 import Volunteer from './Pages/Volunteer';
 import Experiences from './Pages/Experiences';
-import { Link, Links } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import Posts from './components/Posts';
 
 import './styles.css';
